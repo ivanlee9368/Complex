@@ -1,1 +1,4 @@
- Multi-Container Deployments to AWS
+-	Building a multi-container application
+-	“Dockerizing” Multiple Services
+-	A CI workflow for Multiple images
+-	Multi-container deployment to AWS
